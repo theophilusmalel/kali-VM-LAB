@@ -1,6 +1,4 @@
-# Lab - Deploy a Pre-Built Kali Linux Virtual Machine
-
-This repository contains a Jekyll-based documentation site using the Minimal Mistakes theme.  
+# Lab - Deploy a Pre-Built Kali Linux Virtual Machine 
 It provides a full lab guide for deploying and exploring a Kali Linux virtual machine on Windows using VirtualBox.
 
 ## 📌 Live Site
